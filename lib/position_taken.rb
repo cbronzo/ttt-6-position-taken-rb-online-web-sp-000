@@ -2,6 +2,7 @@
 
 def position_taken? (board, index)
   if board[index] == " "
-    
+    puts false
+  elsif board[index] == ""
   end
 end
